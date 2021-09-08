@@ -28,7 +28,7 @@
 
 ![](https://github.com/Werayootk/React-COVID-19-Tracker/blob/main/images/covid19.gif)
 
-This project create for practice React-ROUTER skill.
+This project create for practice React call API skill.
 
 ### Built With
 
