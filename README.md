@@ -1,4 +1,5 @@
 # React-COVID-19-Tracker
+[Live Demo](https://covid19-tracker-wedev.netlify.app/)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
